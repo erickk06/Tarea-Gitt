@@ -1,3 +1,7 @@
 Martes
 El martes iniciamos haciendo unas sumatorias para repasar temas, y luego nos pusimos a elegir los proyectos 
 para fin de semestre y lo socializamo con otros amigos y asi poder preguntarle porque eligio ese proyecto.
+
+Miercoles
+El miercoles realizamos operaciones para reforzar las sumatorias y quedo de tarea un video resolviendo la funcion de Ackley
+con 3 dimensiones  diferentes
