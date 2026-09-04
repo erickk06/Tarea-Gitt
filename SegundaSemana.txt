@@ -5,3 +5,6 @@ para fin de semestre y lo socializamo con otros amigos y asi poder preguntarle p
 Miercoles
 El miercoles realizamos operaciones para reforzar las sumatorias y quedo de tarea un video resolviendo la funcion de Ackley
 con 3 dimensiones  diferentes
+
+Jueves
+Ahora se establecieron los equipos para el proyecto final donde la idea fue un sistema de registro con huella digital y se quedo en que el dia sioguiente se revisaran todos los trabajos de toda la semana.
